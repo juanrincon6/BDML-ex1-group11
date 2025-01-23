@@ -7,8 +7,8 @@ This repository will serve as a template for the in-class exercise of january 22
 
 # Team Members
 Write below the names of the team members with your university code.
-- A
-- B
-- C
-- D
+- Juan David Rincón
+- Nicolás Lozano
+- Ana María Rojas Hortua 
+- Camilo Alexander Ramírez Arias
 
